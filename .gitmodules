@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/tdelphi1981/tdelphi1981.r-universe.dev
 	branch = HEAD
+[submodule "sezgi"]
+	path = sezgi
+	url = https://github.com/tdelphi1981/sezgi
+	subdir = r-sezgi
